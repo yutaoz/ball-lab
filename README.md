@@ -1,6 +1,8 @@
 # ball-lab
 A collection of experiments with past NBA game data
 
+Data folder generated with https://github.com/yutaoz/goscore
+
 ## _PiTeam_
 Experiment to find all historical NBA games with the same scoreline
 
