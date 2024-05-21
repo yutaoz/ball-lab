@@ -1,0 +1,35 @@
+Wed May 1 2024,Boston Celtics,Miami Heat,118,84,TD Garden,19156,/boxscores/202405010BOS.html
+Wed May 1 2024,Los Angeles Clippers,Dallas Mavericks,93,123,Crypto.com Arena,19370,/boxscores/202405010LAC.html
+Thu May 2 2024,Indiana Pacers,Milwaukee Bucks,120,98,Gainbridge Fieldhouse,17274,/boxscores/202405020IND.html
+Thu May 2 2024,Philadelphia 76ers,New York Knicks,115,118,Wells Fargo Center,21093,/boxscores/202405020PHI.html
+Fri May 3 2024,Orlando Magic,Cleveland Cavaliers,103,96,Kia Center,19193,/boxscores/202405030ORL.html
+Fri May 3 2024,Dallas Mavericks,Los Angeles Clippers,114,101,American Airlines Center,20625,/boxscores/202405030DAL.html
+Sat May 4 2024,Denver Nuggets,Minnesota Timberwolves,99,106,Ball Arena,19915,/boxscores/202405040DEN.html
+Sun May 5 2024,Cleveland Cavaliers,Orlando Magic,106,94,Rocket Mortgage Fieldhouse,19432,/boxscores/202405050CLE.html
+Mon May 6 2024,New York Knicks,Indiana Pacers,121,117,Madison Square Garden (IV),19812,/boxscores/202405060NYK.html
+Mon May 6 2024,Denver Nuggets,Minnesota Timberwolves,80,106,Ball Arena,19942,/boxscores/202405060DEN.html
+Tue May 7 2024,Boston Celtics,Cleveland Cavaliers,120,95,TD Garden,19156,/boxscores/202405070BOS.html
+Tue May 7 2024,Oklahoma City Thunder,Dallas Mavericks,117,95,Paycom Center,18203,/boxscores/202405070OKC.html
+Wed May 8 2024,New York Knicks,Indiana Pacers,130,121,Madison Square Garden (IV),19812,/boxscores/202405080NYK.html
+Thu May 9 2024,Boston Celtics,Cleveland Cavaliers,94,118,TD Garden,19156,/boxscores/202405090BOS.html
+Thu May 9 2024,Oklahoma City Thunder,Dallas Mavericks,110,119,Paycom Center,18203,/boxscores/202405090OKC.html
+Fri May 10 2024,Indiana Pacers,New York Knicks,111,106,Gainbridge Fieldhouse,17274,/boxscores/202405100IND.html
+Fri May 10 2024,Minnesota Timberwolves,Denver Nuggets,90,117,Target Center,19733,/boxscores/202405100MIN.html
+Sat May 11 2024,Dallas Mavericks,Oklahoma City Thunder,105,101,American Airlines Center,20325,/boxscores/202405110DAL.html
+Sat May 11 2024,Cleveland Cavaliers,Boston Celtics,93,106,Rocket Mortgage Fieldhouse,19432,/boxscores/202405110CLE.html
+Sun May 12 2024,Indiana Pacers,New York Knicks,121,89,Gainbridge Fieldhouse,17274,/boxscores/202405120IND.html
+Sun May 12 2024,Minnesota Timberwolves,Denver Nuggets,107,115,Target Center,19583,/boxscores/202405120MIN.html
+Mon May 13 2024,Cleveland Cavaliers,Boston Celtics,102,109,Rocket Mortgage Fieldhouse,19432,/boxscores/202405130CLE.html
+Mon May 13 2024,Dallas Mavericks,Oklahoma City Thunder,96,100,American Airlines Center,20607,/boxscores/202405130DAL.html
+Tue May 14 2024,New York Knicks,Indiana Pacers,121,91,Madison Square Garden (IV),19812,/boxscores/202405140NYK.html
+Tue May 14 2024,Denver Nuggets,Minnesota Timberwolves,112,97,Ball Arena,19992,/boxscores/202405140DEN.html
+Wed May 15 2024,Boston Celtics,Cleveland Cavaliers,0,0,TD Garden,0,core_text"
+Wed May 15 2024,Oklahoma City Thunder,Dallas Mavericks,0,0,Paycom Center,0,core_text"
+Thu May 16 2024,Minnesota Timberwolves,Denver Nuggets,0,0,Target Center,0,core_text"
+Fri May 17 2024,Cleveland Cavaliers,Boston Celtics,0,0,Rocket Mortgage Fieldhouse,0,core_text"
+Fri May 17 2024,Indiana Pacers,New York Knicks,0,0,Gainbridge Fieldhouse,0,core_text"
+Sat May 18 2024,Dallas Mavericks,Oklahoma City Thunder,0,0,American Airlines Center,0,core_text"
+Sun May 19 2024,Boston Celtics,Cleveland Cavaliers,0,0,TD Garden,0,core_text"
+Sun May 19 2024,Denver Nuggets,Minnesota Timberwolves,0,0,Ball Arena,0,core_text"
+Sun May 19 2024,New York Knicks,Indiana Pacers,0,0,Madison Square Garden (IV),0,core_text"
+Mon May 20 2024,Oklahoma City Thunder,Dallas Mavericks,0,0,Paycom Center,0,core_text"
